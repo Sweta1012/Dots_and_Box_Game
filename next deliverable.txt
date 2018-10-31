@@ -1,0 +1,21 @@
+media sharing in footer
+establish a session -- able to invite players in that session
+
+
+
+
+UI-UX designing for the front end screens
+Used Maqetta, open source front end mockup tool to generate front end demo application
+Developed Unit and E2E Integration Test Cases in Protractor JS. 
+
+
+Roles and responsibilities:
+
+-Worked with an agile team to develop, test, and maintain web-based applications built on JAVA.
+-Worked on web designing tools like Bootstrap, HTML, and CSS as well as PHP and Javascript.
+-Prepared reports, manuals and other documentation on the status, operation, and maintenance -of the Web Application.
+-UI-UX designing for the front end screens
+-Design, Develop, and Unit test applications in accordance with established standards.
+-Developed Unit Test Cases in JS.
+-Developing, Refining, and tuning integrations between applications.
+-Analysing and resolving technical and application problems.

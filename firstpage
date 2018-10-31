@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta name="viewport" content="width-device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="C:\Users\Arya\Desktop\the wall\sweta drive\Comprehensive\css\mystyle">
+</head>
+
+<body>
+
+	<div class="container">
+
+		
+		
+		<div class="leftpane"> <img src="C:\Users\Arya\Desktop\the wall\sweta drive\Comprehensive\img\logo.jpg" style="width:40%" align="left">  
+				 <br> <br> <br>&nbsp &nbsp <strong> <font size="5">ToyBox Tools!! </font></strong>  <br><br><br><br><br>
+
+				<div class="padding"> <div class="scroll"> <font class="family" size="3" color="red"> <strong>1. TIC TAC TOE </strong> </font>  <br><br>
+									<font class="family" size="3" color="red"> <strong>2. SUDOKU </strong> </font>  <br><br>
+									<font class="family" size="3" color="red"> <strong>3. FLOW FREE </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>4. FISHDOM </strong> </font> <br><br> 
+									<font class="family" size="3" color="red"> <strong>5. SOKOBAN </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>6. TWO DOTS </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>7. UNBLOCK ME</strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>8. 99 BRICKS </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>9. SLIDE BY SLIDE </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>10. FLASH </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>11. PACMAN </strong> </font> <br><br>
+									<font class="family" size="3" color="red"> <strong>12. ZUMNA </strong> </font> <br><br>
+
+									</div>
+									
+
+				</div>
+
+				 </div>
+		
+
+		<div class="rightpane"> <br> <br><b> <font size="6">  <font class="family"> Welcome to ToyBox Tools Gaming Zone! </font> <br> <br>  <b> <font size="6">  <font class="family"> YOU have selected to PLAY this GAME! </font>
+		</b> <br><br>
+		<img class="size" src="C:\Users\Arya\Desktop\the wall\sweta drive\Comprehensive\img\game.jpg" style="width:50% height="35%" align="middle">
+
+		</div>
+
+		<div class="bottompane">  <br><br><br><br>
+		<font class="family" size="3"> <b>  Home </b></font> &nbsp &nbsp &nbsp &nbsp
+		<font class="family" size="3"> <b>about us </b> </font> &nbsp &nbsp &nbsp &nbsp
+		<font class="family" size="3"> <b>Other Gaming Sites </b> </font> &nbsp &nbsp &nbsp &nbsp
+		<font class="family" size="3"> <b>Trial Video </b> </font>  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp
+		<font class="family" size="3"> <b> Copyrights 2018 </b> </font>
+		 </div> 
+		
+	
+</body>
+</html>

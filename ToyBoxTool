@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="C:\Users\Arya\Desktop\the wall\sweta drive\Comprehensive\css\new">
+</head>
+
+<body>
+
+	<div class="container">
+	<div class="leftcolumn"> logo and name</div>
+	<div class="rightcolumn"> Play game here</div>
+	<div class="footer"> links </div>
+</div>
+</body>
+</html>

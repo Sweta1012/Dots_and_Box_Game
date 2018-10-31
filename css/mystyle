@@ -1,0 +1,70 @@
+
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: Linen;
+
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.leftpane {
+    width: 25%;
+    height: 90%;
+    float: left;
+    border-collapse: collapse;
+    background-color: Linen;
+    
+}
+.rightpane {
+  width: 75%;
+  height: 90%;
+  float: right;
+  border-collapse: collapse;
+  background-color: Linen;
+  text-align: center;
+}
+
+.bottompane {
+    width: 100%;
+    height: 10%;
+    border-collapse: collapse;
+        
+}
+
+
+
+div.scroll {
+	padding-left: 20px;
+    width: 200px;
+    height: 350px;
+    overflow: scroll;
+    text-align: center;
+    border-style: groove;
+}
+
+.bgclr{
+	background-color: ;
+}
+
+div.padding{
+	padding-left: 40px;
+	padding-right: 15px;
+	padding-top: 5px;
+}
+
+
+
+img.size{
+	padding-left: 30px;
+	pading-right: 30px;
+
+}
+
+font.family{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
